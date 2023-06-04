@@ -2,7 +2,7 @@
 <br />
 <br />
 <p align='center'>
-   <a href="https://www.linkedin.com/in/massimiliano-ferrulli-8b050a223/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/49/49408.png"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/massimiliano-ferrulli-ab7507223/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/49/49408.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/Maxferrulli"><img height="30" src="https://cdn.icon-icons.com/icons2/38/PNG/512/twitter_social_5083.png"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/9nbu8xmskt73ez8czmh80q9c0?si=eda1f561c6324689"><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/spotify-14-437140.png"></a>&nbsp;&nbsp;
 
