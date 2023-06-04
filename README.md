@@ -11,11 +11,11 @@
   <h2 align="center"> Bio </h2>
 <img width="300" src="https://24.media.tumblr.com/tumblr_m3hisaQMQ51qzqnxxo1_500.gif" align="right">
 <li>
- <b>I'm 18 years old and I'm currently studying math and physics at LiLu2</b> 
+ <b>I'm 19 years old and I'm currently studying math and physics at LiLu2</b> 
 <li>
  <b>I'm interested in Quantum mechanics</b> 
 <li>
-<b>I like 3d softwares and I currently use Maya, Houdini and AfterEffects for compositing</b>
+<b>I like 3d softwares and I currently use Autodesk Inventor as a cad software and Maya, Houdini and AfterEffects for video production</b>
 </li>
 <li>
 <b>I 3d print with my Flsun SR </b> 
