@@ -11,17 +11,19 @@
   <h2 align="center"> Bio </h2>
 <img width="300" src="https://24.media.tumblr.com/tumblr_m3hisaQMQ51qzqnxxo1_500.gif" align="right">
 <li>
- <b>I'm 19 years old and I'm currently studying math and physics at LiLu2</b> 
+ <b>I'm 19 years old and I'm currently studying microengineering at EPFL</b> 
 <li>
- <b>I'm interested in Quantum mechanics</b> 
+ <b>I'm interested in Quantum mechanics, Microcontrollers, Coding </b> 
 <li>
-<b>I like 3d softwares and I currently use Autodesk Inventor as a cad software and Maya, Houdini and AfterEffects for video production</b>
+<b> I code in c++ and python and as CAD softwares I use Catia v5 and Autodesk Inventor</b>
+<li>
+<b> In my spare time I do 3d renders using Maya, Houdini, Cinema4D and AfterEffects for the post production</b>
 </li>
 <li>
-<b>I 3d print with my Flsun SR </b> 
+<b>I 3d print with my Bambu Lab P1S  </b> 
 </li>
 <li>
-<b>I do like building gunpla models in my sparetime</b> 
+<b>I do like building gunpla and Car models in my sparetime </b> 
 </li>
 
 </li>
