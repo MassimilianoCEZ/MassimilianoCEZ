@@ -9,7 +9,7 @@
   
   
   <h2 align="center"> Bio </h2>
-<img width="300" src="https://24.media.tumblr.com/tumblr_m3hisaQMQ51qzqnxxo1_500.gif" align="right">
+
 <li>
  <b>I'm 19 years old and I'm currently studying microengineering at EPFL</b> 
 <li>
