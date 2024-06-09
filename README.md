@@ -11,7 +11,7 @@
   <h2 align="center"> Bio </h2>
 
 <li>
- <b>I'm 19 years old and I'm currently studying microengineering at EPFL</b> 
+ <b>I'm 20 years old and I'm currently studying microengineering at EPFL</b> 
 <li>
  <b>I'm interested in Quantum mechanics, Microcontrollers, Coding </b> 
 <li>
