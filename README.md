@@ -23,7 +23,7 @@
 <b>I 3d print with my Bambu Lab P1S  </b> 
 </li>
 <li>
-<b>I do like building gunpla and Car models in my sparetime </b> 
+<b>I do like building gunpla and Car models in my sparetime too</b> 
 </li>
 
 </li>
