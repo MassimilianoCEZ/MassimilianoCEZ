@@ -1,39 +1,28 @@
-### Welcome to Massimiliano's Github page
-<br />
-<br />
-<p align='center'>
-   <a href="https://www.linkedin.com/in/massimiliano-ferrulli-ab7507223/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/49/49408.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Maxferrulli"><img height="30" src="https://cdn.icon-icons.com/icons2/38/PNG/512/twitter_social_5083.png"></a>&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/9nbu8xmskt73ez8czmh80q9c0?si=eda1f561c6324689"><img height="30" src="https://cdn.iconscout.com/icon/free/png-256/spotify-14-437140.png"></a>&nbsp;&nbsp;
-
-  
-  
-  <h2 align="center"> Bio </h2>
-
-<li>
- <b>I'm 20 years old and I'm currently studying microengineering at EPFL</b> 
-<li>
- <b>I'm interested in Quantum mechanics, Microcontrollers, Coding </b> 
-<li>
-<b> I code in c++ and python and as CAD softwares I use Catia v5 and Autodesk Inventor</b>
-<li>
-<b> In my spare time I do 3d renders using Maya, Houdini, Cinema4D and AfterEffects for the post production</b>
-</li>
-<li>
-<b>I 3d print with my Bambu Lab P1S  </b> 
-</li>
-<li>
-<b>I do like building gunpla and Car models in my sparetime too</b> 
-</li>
-
-</li>
-<br><br><br>
+<div style="text-align:center;">
+   <div style="display: inline-flex; align-items: center;">
+       <h3 style="margin: 0;">I'm into:</h3>
+   </div>
+   <ul style="list-style:none; padding:0; display:inline-block; text-align:left; margin-top: 10px;">
+       <li>Quantum Physics, Linear algebra and Multivariable analysis</li>
+       <li>Embedded systems and Micro Controllers</li>
+       <li>C++</li>
+       <li>3D renders with HoudiniFX, Cinema4D, Octane renderer</li>
+       <li>Volleyball</li>
+   </ul>
 </div>
-<div>
-  
-  
- </p>
 
+<br/>
 
-
-  
+<p align='center'>
+   <a href="https://github.com/massimilianoCEZ">
+       <img alt="Massimiliano's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=massimilianoCEZ&show_icons=true&count_private=true&theme=cobalt&border_color=7F3FBF&bg_color=0D1117&title_color=0065c8&icon_color=#0065c8" height="192px" width="49.5%">
+   </a>
+   <a href="https://github.com/massimilianoCEZ">
+       <img alt="Massimiliano's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=massimilianoCEZ&langs_count=8&layout=compact&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=0065c8&icon_color=0065c8" height="192px" width="49.5%">
+   </a>
+   <br/>
+</p>
+<p align="center">
+       <a href="https://www.linkedin.com/in/massimiliano-ferrulli-ab7507223/" style="margin-left: 1000px;">
+           <img height="100" src="https://static.vecteezy.com/system/resources/previews/018/930/480/large_2x/linkedin-logo-linkedin-icon-transparent-free-png.png">
+       </a>
