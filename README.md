@@ -22,7 +22,3 @@
    </a>
    <br/>
 </p>
-<p align="center">
-       <a href="https://www.linkedin.com/in/massimiliano-ferrulli-ab7507223/" style="margin-left: 1000px;">
-           <img height="100" src="https://static.vecteezy.com/system/resources/previews/018/930/480/large_2x/linkedin-logo-linkedin-icon-transparent-free-png.png">
-       </a>
