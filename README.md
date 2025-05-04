@@ -3,9 +3,9 @@
        <h3 style="margin: 0;">I'm into:</h3>
    </div>
    <ul style="list-style:none; padding:0; display:inline-block; text-align:left; margin-top: 10px;">
+         <li>Embedded systems, Pcb design</li>
        <li>Quantum Physics, Linear algebra and Multivariable analysis</li>
-       <li>Embedded systems and Micro Controllers</li>
-       <li>C++</li>
+       <li>C++, Python </li>
        <li>3D renders with HoudiniFX, Cinema4D, Octane renderer</li>
        <li>Volleyball</li>
    </ul>
