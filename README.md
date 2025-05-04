@@ -11,9 +11,9 @@
    </ul>
 </div>
 
-<br/>
 
 <p align='center'>
+   <br/>
    <a href="https://github.com/massimilianoCEZ">
        <img alt="Massimiliano's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=massimilianoCEZ&show_icons=true&count_private=true&theme=cobalt&border_color=7F3FBF&bg_color=0D1117&title_color=0065c8&icon_color=#0065c8" height="192px" width="49.5%">
    </a>
