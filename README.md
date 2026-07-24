@@ -1,11 +1,11 @@
 <div align="center">
-### I'm into:
+I'm into:
 <ul align="left">
-  <li>Embedded systems, PCB design</li>
-  <li>Quantum Physics, Linear Algebra, and Multivariable Analysis</li>
-  <li>C++, Python</li>
-  <li>3D renders with HoudiniFX, Cinema4D, Octane Renderer</li>
-  <li>Volleyball</li>
+  <li>Hardware, Embedded systems, PCB design</li>
+  <li>ElectroMagnetism, Linear Algebra, Multivariable Analysis, Power Electronics </li>
+  <li>C++, C, Assembly, Python </li>
+  <li>3D renders with HoudiniFX, Cinema4D, Octane Renderer, Maya</li>
+  <li>Volleyball, Basketball</li>
 </ul>
 <br/>
 <a href="https://github.com/massimilianoCEZ">
